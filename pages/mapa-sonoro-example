@@ -1,0 +1,36 @@
+---
+layout: default
+title: "Mapa Sonoro"
+permalink: /mapa-sonoro/
+nav_order: 3
+---
+
+<h2>🌍 Mapa Sonoro</h2>
+<div id="map" style="height: 80vh; width: 100%; margin-top: 1rem;"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+const map = L.map('map').setView([23.6345, -102.5528], 5);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+fetch('/sounds.json')
+  .then(res => res.json())
+  .then(data => {
+    data.forEach(sound => {
+      const marker = L.marker([sound.lat, sound.lon]).addTo(map);
+      const popupContent = `
+        <div style="max-width:250px">
+          <strong>${sound.titulo}</strong><br/>
+          <em>${sound.lugar}</em><br/>
+          <p>${sound.descripcion}</p>
+          <audio controls src="/assets/audios/${sound.audio}"></audio>
+        </div>
+      `;
+      marker.bindPopup(popupContent);
+    });
+  });
+</script>
