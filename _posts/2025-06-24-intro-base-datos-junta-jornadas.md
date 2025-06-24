@@ -7,27 +7,10 @@ categories: [recursos, datos, metadatos, elementos]
 
 ---
 
-## Índice de contenidos
-
-- [¿Qué son los metadatos?](#qué-son-los-metadatos)
-- [¿Qué es una estructura de datos de metadatos?](#qué-es-una-estructura-de-datos-de-metadatos)
-- [¿Qué son los elementos en Omeka?](#qué-son-los-elementos-en-omeka)
-- [¿Qué es Dublin Core?](#qué-es-dublin-core)
-- [Ejemplo completo en Omeka con Dublin Core](#ejemplo-completo-en-omeka-con-dublin-core)
-- [Beneficios de usar Dublin Core en Omeka](#beneficios-de-usar-dublin-core-en-omeka)
-- [¿Cómo empezar en Omeka?](#cómo-empezar-en-omeka)
-
-
-
-
 ## ¿Qué son los metadatos?
 
 
-
-
 ## ¿Qué es una estructura de datos de metadatos?
-
-¿Qué es una estructura de datos de metadatos?
 
 Una **estructura de datos de metadatos** es un conjunto organizado de campos que definen:
 - Qué tipo de información debe capturarse
@@ -40,8 +23,6 @@ Estas estructuras aseguran la consistencia y la interoperabilidad en la descripc
 
 
 ## ¿Qué son los elementos en Omeka?
-
-¿Qué son los elementos en Omeka?
 
 En Omeka, los **elementos** son los campos individuales que usamos para ingresar metadatos al describir un ítem digital (como un documento, imagen o video).
 
@@ -60,8 +41,6 @@ En Omeka, los **elementos** son los campos individuales que usamos para ingresar
 
 
 ## ¿Qué es Dublin Core?
-
-¿Qué es Dublin Core?
 
 **Dublin Core** es un estándar internacional para la descripción de recursos digitales. Define 15 elementos básicos que se utilizan en bibliotecas, archivos, museos y repositorios.
 
@@ -91,8 +70,6 @@ En Omeka, los **elementos** son los campos individuales que usamos para ingresar
 
 ## Ejemplo completo en Omeka con Dublin Core
 
-Ejemplo completo en Omeka con Dublin Core
-
 **Título:** Carta de Emiliano Zapata a Francisco Villa  
 **Creador:** Emiliano Zapata  
 **Fecha:** 18 de noviembre de 1914  
@@ -108,8 +85,6 @@ Ejemplo completo en Omeka con Dublin Core
 
 ## Beneficios de usar Dublin Core en Omeka
 
-Beneficios de usar Dublin Core en Omeka
-
 - ✅ **Estandarización**: permite describir todos los objetos con la misma lógica.
 - 🔍 **Facilidad de búsqueda**: mejora la indexación y el acceso.
 - 🔗 **Interoperabilidad**: permite intercambiar metadatos entre plataformas.
@@ -119,8 +94,6 @@ Beneficios de usar Dublin Core en Omeka
 
 
 ## ¿Cómo empezar en Omeka?
-
-¿Cómo empezar en Omeka?
 
 1. Accede a tu instalación de Omeka o crea una en [omeka.net](https://www.omeka.net).
 2. Crea un nuevo ítem.
