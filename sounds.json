@@ -1,18 +1,18 @@
 [
   {
-    "titulo": "Campanas del centro",
-    "lugar": "Zacatecas, Centro Histórico",
-    "descripcion": "Registro de las campanas al mediodía",
-    "lat": 22.7743,
-    "lon": -102.5722,
-    "audio": "audios/zacatecas-campanas.mp3"
+    "titulo": "Basketball game campus",
+    "lugar": "Jalisco, Zapopan",
+    "descripcion": "Registro juego basket",
+    "lat": 20.736020849132014, 
+    "lon": -103.45523885514118,
+    "audio": "audios/412162__phillyfan972__scored-basket-at-a-basketball-game.wav"
   },
   {
-    "titulo": "Río en la sierra",
-    "lugar": "Durango, Río Mezquital",
-    "descripcion": "Sonido del agua corriendo y aves de fondo",
-    "lat": 24.0285,
-    "lon": -104.6532,
-    "audio": "audios/rio-mezquital.mp3"
+    "titulo": "Café en campus",
+    "lugar": "Jalisco, Zapopan",
+    "descripcion": "vivencia café ubicado en campus",
+    "lat": 20.734922129206755,
+    "lon": -103.45529748044947,
+    "audio": "672830__vicocintle__amnbiente-cafe-lluvia-voces-tazas01_lr.wav"
   }
 ]
