@@ -5,6 +5,7 @@ title: "Plantilla de Metadatos para Mapa Sonoro"
 categories: [recursos, datos, metadatos, mapa, sonoro]
 ---
 
+
 ## 🧭 Metadatos para Mapa Sonoro
 
 Esta plantilla está basada en el estándar Dublin Core, con campos adaptados para la descripción y publicación de grabaciones georreferenciadas en proyectos de mapa sonoro.
@@ -19,7 +20,7 @@ table {
   font-size: 16px;
 }
 th, td {
-  border: 1px solid #aaa;
+  border: 1px dotted #666;
   padding: 10px;
   text-align: left;
 }
