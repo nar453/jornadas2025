@@ -23,7 +23,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; OpenStreetMap contributors'
 }).addTo(map);
 
-fetch('/sounds.json')
+fetch('{{ site.baseurl }}/assets/sounds.json')
   .then(res => res.json())
   .then(data => {
     data.forEach(sound => {
