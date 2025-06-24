@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: post
+date: 2025-06-24
 title: "Plantilla de Metadatos para Mapa Sonoro"
-nav_order: 1
-parent: Manuales básicos
-has_children: false
+categories: [recursos, datos, metadatos, mapa, sonoro]
 ---
 
 ## 🧭 Plantilla de Metadatos para Mapa Sonoro
