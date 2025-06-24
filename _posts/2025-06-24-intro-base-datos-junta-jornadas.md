@@ -8,7 +8,7 @@ categories: [recursos, datos, metadatos, elementos]
 ---
 
 ## ¿Qué son los metadatos?
-
+Los metadatos son datos que describen otros datos. Proveen información como autor, fecha, formato o ubicación de un archivo, facilitando su organización, búsqueda y uso.
 
 ## ¿Qué es una estructura de datos de metadatos?
 
