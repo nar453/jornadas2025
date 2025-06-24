@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "Campanas del centro",
+    "lugar": "Zacatecas, Centro Histórico",
+    "descripcion": "Registro de las campanas al mediodía",
+    "lat": 22.7743,
+    "lon": -102.5722,
+    "audio": "audios/zacatecas-campanas.mp3"
+  },
+  {
+    "titulo": "Río en la sierra",
+    "lugar": "Durango, Río Mezquital",
+    "descripcion": "Sonido del agua corriendo y aves de fondo",
+    "lat": 24.0285,
+    "lon": -104.6532,
+    "audio": "audios/rio-mezquital.mp3"
+  }
+]
