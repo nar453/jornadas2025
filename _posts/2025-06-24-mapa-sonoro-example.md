@@ -5,7 +5,10 @@ date: 2025-06-24
 categories: [mapa, sonido, datos]
 
 ---
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
 
 <h2>🌍 Mapa Sonoro</h2>
 <div id="map" style="height: 80vh; width: 100%; min-height: 400px;"></div>
