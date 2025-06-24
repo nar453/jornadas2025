@@ -1,9 +1,10 @@
 ---
-layout: default
-title: "Guía sobre Elementos, Metadatos y Dublin Core en Omeka"
+layout: post
+date: 2025-06-24
+title: "Intro base datos, metadatos y elementos"
 nav_order: 2
-parent: Manuales básicos
-has_children: false
+categories: [recursos, datos, metadatos, elementos]
+
 ---
 
 ## Índice de contenidos
