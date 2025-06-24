@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title: "Mapa Sonoro"
-permalink: /mapa-sonoro/
-nav_order: 3
+categories: [mapa, sonido, datos]
+tags: [paisaje sonoro, leaflet, jekyll]
 ---
 
 <h2>🌍 Mapa Sonoro</h2>
