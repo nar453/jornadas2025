@@ -3,7 +3,9 @@ layout: post
 title: Mapa Sonoro
 date: 2025-06-24
 categories: [mapa, sonido, datos]
+
 ---
+
 
 <h2>🌍 Mapa Sonoro</h2>
 <div id="map" style="height: 80vh; width: 100%; margin-top: 1rem;"></div>
@@ -34,5 +36,3 @@ fetch('/sounds.json')
     });
   });
 </script>
-
--
