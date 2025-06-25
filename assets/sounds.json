@@ -1,11 +1,11 @@
 [
   {
-    "titulo": "Basketball game campus",
+    "titulo": "Basketball practice in campus",
     "lugar": "Jalisco, Zapopan",
     "descripcion": "Registro juego basket",
     "lat": 20.736020849132014, 
     "lon": -103.45523885514118,
-    "audio": "audios/412162__phillyfan972__scored-basket-at-a-basketball-game.wav"
+    "audio": "basketball-hit.mp3"
   },
   {
     "titulo": "coffee-pour-and-stir",
