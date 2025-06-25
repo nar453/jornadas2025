@@ -28,14 +28,17 @@ fetch('{{ site.baseurl }}/assets/sounds.json')
   .then(data => {
     data.forEach(sound => {
       const marker = L.marker([sound.lat, sound.lon]).addTo(map);
-      const popupContent = `
-        <div style="max-width:250px">
-          <strong>${sound.titulo}</strong><br/>
-          <em>${sound.lugar}</em><br/>
-          <p>${sound.descripcion}</p>
-          <audio controls src="/assets/audios/${sound.audio}"></audio>
-        </div>
-      `;
+      const basePath = window.location.pathname.split('/')[1];
+
+const popupContent = `
+  <div style="max-width:250px">
+    <strong>${sound.titulo}</strong><br/>
+    <em>${sound.lugar}</em><br/>
+    <p>${sound.descripcion}</p>
+    <audio controls src="/${basePath}/assets/audios/${sound.audio}"></audio>
+  </div>
+`;
+
       marker.bindPopup(popupContent);
     });
   });
