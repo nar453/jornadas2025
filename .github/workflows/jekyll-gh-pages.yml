@@ -2,20 +2,15 @@
 name: Build & Deploy Jekyll
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions for GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -30,7 +25,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'    # usa 3.3 para compatibilidad con sass-embedded
+          ruby-version: '3.3'     # compatible con sass-embedded
           bundler-cache: true
 
       - name: Prepare and Build Jekyll
