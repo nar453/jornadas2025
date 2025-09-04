@@ -9,13 +9,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Fuerza Ruby 3.3 (o 3.2). Desactiva cache la primera vez para evitar keys
+      # viejas; luego puedes volver a true.
       - name: Setup Ruby 3.3
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'      # también puede ser '3.2'
-          bundler-cache: true
+          ruby-version: '3.3'
+          bundler-cache: false
+          cache-version: v2
 
-      # Asegura que el Gemfile.lock tenga las plataformas de Linux
+      - name: Print Ruby version
+        run: |
+          ruby -v
+          which ruby
+
+      # Asegura que el lockfile incluye plataformas Linux del runner
       - name: Normalize lockfile platforms
         run: |
           bundle lock --add-platform x86_64-linux aarch64-linux
@@ -47,3 +55,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
