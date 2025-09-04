@@ -1,0 +1,50 @@
+---
+layout: post
+title: "🏆 Ganadores — Jornadas de Humanidades Digitales"
+date: 2025-09-04 10:42 -0600
+categories: [JornadasHD]
+tags: [ganadores, humanidades-digitales]
+permalink: /blog/jornadas-hd/ganadores/
+excerpt: "Anuncio de los equipos ganadores por sede. Esta entrada se actualizará."
+---
+
+# 🏆 Ganadores de las Jornadas de Humanidades Digitales
+
+> **Anuncio oficial.** Esta entrada se actualizará conforme se publiquen más resultados de las sedes participantes.
+Este logro brinda, en primer lugar, el pago de la inscripción al Encuentro de Humanidades Digitales, que se celebrará en Monterrey del 15 al 17 de octubre.
+
+Asimismo, nos complace anunciar que los equipos reconocidos forman parte de los cuatro finalistas al Premio Nacional de las Jornadas de Humanidades Digitales.
+---
+
+## 🥇 Primer equipo ganador
+
+### Pulsos cromáticos en el Centro Histórico de la Ciudad de Puebla
+
+**Descripción**  
+En el proyecto *«Pulsos Cromáticos en el Centro Histórico de la Ciudad de Puebla»* buscamos explorar otras formas de leer el arte urbano que está plasmado en la calle utilizando distintos recursos metodológicos y tecnológicos.
+
+**Objetivos iniciales**  
+1. Construir visualizaciones para analizar cómo el grafiti, los stickers y las consignas políticas responden a fenómenos socioculturales que atraviesan el centro de la ciudad.  
+2. Reflexionar sobre cómo se construyen los datos, primero desde un cuerpo situado que recorre la ciudad —atravesado por afectos, recuerdos y curiosidades— y también a través de los metadatos. Estos aparecen como huellas de un vínculo con el espacio, elementos que resignifican el ejercicio de caminar la ciudad. Ambos recorridos suponen un ejercicio narrativo donde el centro es la forma de habitar la ciudad y (d)escribirla.
+
+**Integrantes**  
+- Dr. Iván Flores Obregón — Antropólogo especializado en culturas digitales.  
+- Dra. Adriana Moreno Carrasco — Antropóloga digital.  
+- Mtro. Emmanuel Anguiano — Maestro en ciencias y artista digital.  
+- Dr. Roberto Domínguez Cáceres — Experto en literatura y discurso.
+
+**Metodología y avances**  
+- Recorridos por el Centro Histórico para registrar intervenciones en muros mediante fotografía.  
+- Extracción de metadatos de cada imagen para construir **mapas interactivos** (p. ej., con *ArcGIS*).  
+- **Datos iniciales:** 1020 fotografías con descripciones generadas con IA.  
+- **Análisis de color** preliminar en cada grafiti usando *NumPy* para obtener porcentajes de color.  
+
+Con ello, el proyecto busca **nuevas formas de presentar la ciudad** y **cuestionar supuestos epistémicos, metodológicos y técnicos**.
+
+---
+
+## ➕ Próximos anuncios
+Se irán agregando los resultados de más sedes en esta misma página.
+
+--
+
