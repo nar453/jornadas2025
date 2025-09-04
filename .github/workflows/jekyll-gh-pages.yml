@@ -1,5 +1,4 @@
-# Build and deploy Jekyll site to GitHub Pages using official Actions
-name: Build & Deploy Jekyll
+name: Deploy Jekyll site to Pages
 
 on:
   push:
@@ -26,19 +25,35 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'     # compatible con sass-embedded
-          bundler-cache: true
+          bundler-cache: false    # lo puedes activar luego; lo dejamos off para evitar cache viejo
+          cache-version: 1
 
-      - name: Prepare and Build Jekyll
+      # Asegura/normaliza Gemfile.lock para plataformas Linux del runner
+      - name: Ensure Gemfile.lock exists (CI-safe)
         run: |
-          bundle lock --add-platform x86_64-linux aarch64-linux
-          bundle lock --normalize-platforms
-          bundle install --jobs 4
-          bundle exec jekyll build --trace
+          if [ ! -f Gemfile.lock ]; then
+            echo "Gemfile.lock no existe; lo generamos para CI…"
+            bundle lock --add-platform x86_64-linux aarch64-linux
+            bundle lock --normalize-platforms
+          else
+            echo "Gemfile.lock encontrado; normalizamos plataformas…"
+            bundle lock --add-platform x86_64-linux aarch64-linux
+            bundle lock --normalize-platforms
+          fi
+
+      - name: Install gems
+        run: bundle install --jobs 4
         env:
-          JEKYLL_ENV: production
+          BUNDLE_WITHOUT: "development:test"
 
       - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}" --trace
+        env:
+          JEKYLL_ENV: production
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -55,3 +70,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
