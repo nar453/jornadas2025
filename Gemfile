@@ -1,5 +1,5 @@
 # Usa Ruby moderno para compatibilidad con sass-embedded
-ruby "3.3.0"          # o ruby ">= 3.2"
+ruby "~> 3.3"          # acepta 3.3.0 … 3.3.x
 
 source "https://rubygems.org"
 
