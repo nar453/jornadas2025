@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Guías: Omeka, Dublin Core, MapHub"
-date:   2025-06-17
+date:   2025-09-23
 description: "Recopilación de guías paso a paso para herramientas digitales en humanidades"
 categories: [resources, HD]
 ---
