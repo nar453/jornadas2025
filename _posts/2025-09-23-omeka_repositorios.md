@@ -5,16 +5,17 @@ date: 2025-09-23
 categories: [omeka, repositorio, humanidades-digitales]
 ---
 
-# Comparación: Omeka, Wikicommons, Islandora y Samvera/Hyrax
+# Comparación: Omeka, Wikicommons y otros repositorios
 
 [Omeka](https://www.omeka.net/)
+
+
 [Wikicommons](https://commons.wikimedia.org/wiki/Portada)
 
-## Tablas comparativas
 
-# Comparación: Omeka vs Wikimedia Commons
+## Comparación: Omeka vs Wikimedia Commons
 
-## Tabla comparativa
+### Tabla comparativa
 
 | Criterio | **Omeka (S/Classic)** | **Wikimedia Commons** |
 |----------|------------------------|------------------------|
@@ -31,15 +32,15 @@ categories: [omeka, repositorio, humanidades-digitales]
 
 ---
 
-## Derechos de autor y licencias
+### Derechos de autor y licencias
 
-### Omeka
+**Omeka**
 - El **autor conserva siempre sus derechos**.  
 - Se pueden subir materiales bajo **cualquier régimen de derechos** (Copyright cerrado, acceso restringido, o licencias abiertas).  
 - Es posible usar **Creative Commons**, **RightsStatements.org** o un aviso legal propio.  
 - Control granular: puedes mostrar materiales solo a ciertos roles (ej. estudiantes o investigadores).
 
-### Wikimedia Commons
+**Wikimedia Commons**
 - El **autor conserva sus derechos**, pero para subir debe **aceptar una licencia libre e irrevocable** (como CC BY o CC BY-SA).  
 - No se permite material con copyright cerrado ni “uso justo” (excepto casos mínimos muy regulados).  
 - El contenido subido puede ser reutilizado por cualquier persona, incluso con fines comerciales, siempre que se respeten las condiciones de la licencia.  
@@ -47,7 +48,7 @@ categories: [omeka, repositorio, humanidades-digitales]
 
 ---
 
-## ¿Cuándo elegir cada uno?
+### ¿Cuándo elegir cada uno?
 
 - **Omeka**:  
   - Cuando necesitas **control total** sobre el repositorio.  
@@ -61,15 +62,15 @@ categories: [omeka, repositorio, humanidades-digitales]
 
 
 
-# Flujo práctico: subir la misma foto en Omeka vs Wikimedia Commons
+### Flujo práctico: subir la misma foto en Omeka vs Wikimedia Commons
 
 Imaginemos que tienes una **fotografía histórica** tomada por ti en 2025 y quieres publicarla en ambas plataformas.
 
 ---
 
-## Caso 1: Subir la foto en **Omeka**
+### Caso 1: Subir la foto en **Omeka**
 
-### Flujo
+**Flujo**
 1. Ingresas a tu instalación de Omeka.
 2. Creas un nuevo **Item** (Classic) o **Resource** (S).
 3. En los metadatos (Dublin Core):
@@ -84,7 +85,7 @@ Imaginemos que tienes una **fotografía histórica** tomada por ti en 2025 y qui
      ```
 4. (Opcional) Añades un plugin de **Creative Commons** si quieres licenciar bajo CC.
 
-### Resultado
+ **Resultado**
 - La foto se muestra en tu portal de Omeka.  
 - Solo las personas con permisos (ej. público general, estudiantes o investigadores) pueden acceder.  
 - Tú decides si es **abierta, restringida o embargada**.  
@@ -92,9 +93,9 @@ Imaginemos que tienes una **fotografía histórica** tomada por ti en 2025 y qui
 
 ---
 
-## Caso 2: Subir la foto en **Wikimedia Commons**
+### Caso 2: Subir la foto en **Wikimedia Commons**
 
-### Flujo
+**Flujo**
 1. Entras a tu cuenta de Wikimedia Commons.
 2. Subes el archivo y completas el formulario:
    - **Title**: "Plaza Central en 2025"
@@ -105,7 +106,7 @@ Imaginemos que tienes una **fotografía histórica** tomada por ti en 2025 y qui
      - CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 3. Publicas el archivo.
 
-### Resultado
+**Resultado**
 - La foto se publica **públicamente** en Commons.  
 - Aparece disponible en **Wikipedia/Wikidata** y buscadores.  
 - Cualquier persona puede **reutilizarla**, incluso con fines comerciales, siempre que se dé atribución y se comparta bajo la misma licencia.  
@@ -113,7 +114,7 @@ Imaginemos que tienes una **fotografía histórica** tomada por ti en 2025 y qui
 
 ---
 
-## Diferencias clave en este ejemplo
+### Diferencias clave en este ejemplo
 
 | Aspecto | **Omeka** | **Wikimedia Commons** |
 |---------|-----------|------------------------|
@@ -125,7 +126,7 @@ Imaginemos que tienes una **fotografía histórica** tomada por ti en 2025 y qui
 
 ---
 
-## Conclusión
+### Conclusión
 
 - Si quieres **controlar la difusión y los derechos**, elige **Omeka**.  
 - Si buscas **máxima visibilidad y libre reutilización**, elige **Wikimedia Commons**.  
@@ -135,8 +136,6 @@ Imaginemos que tienes una **fotografía histórica** tomada por ti en 2025 y qui
 
 ---
 ## Otras opciones
-
-
 
 
 | Criterio            | Omeka (S/Classic) | Islandora (Drupal + Fedora) | Samvera/Hyrax | Licencia Software | Derechos/Acceso | Notas de Licencias de Contenido |
