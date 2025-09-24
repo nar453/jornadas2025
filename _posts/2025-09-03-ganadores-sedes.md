@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ganadores por sede | Jornadas HD
-date: 2025-09-03
+date: 2025-09-24
 categories: [ganadores, humanidades-digitales]
 ---
 # 🏆 Ganadores de las Jornadas de Humanidades Digitales
@@ -36,6 +36,46 @@ En el proyecto *«Pulsos Cromáticos en el Centro Histórico de la Ciudad de Pue
 - **Análisis de color** preliminar en cada grafiti usando *NumPy* para obtener porcentajes de color.  
 
 Con ello, el proyecto busca **nuevas formas de presentar la ciudad** y **cuestionar supuestos epistémicos, metodológicos y técnicos**.
+
+## 🥇 Noroeste | equipo ganador
+
+### ¿A qué suena Culiacán?
+
+**Descripción**
+Este proyecto busca rescatar y difundir los **sonidos de la paz cotidiana** en lugares de Culiacán que han sido afectados por la violencia. La intención es contrarrestar la memoria de hechos violentos con registros sonoros que representen la vida diaria, la identidad y la resiliencia de la comunidad.
+
+**Objetivos iniciales**
+- Generar una memoria que rescate los sonidos de paz cotidiana en lugares afectados por la violencia.  
+- Ampliar la visión de los mapeos de situaciones de violencia hacia **mapeos de construcción de paz**.  
+- Difundir una perspectiva sonora diferente de la ciudad a nivel local y nacional.  
+- Aportar un proyecto académico a los esfuerzos de construcción de paz de la entidad y del Tecnológico de Monterrey.  
+
+**Metas** 
+- Recopilar bases de datos sobre puntos de la ciudad que han sufrido violencia por balaceras, para contrarrestarlos con sonidos cotidianos.  
+- Identificar sonidos locales de estos puntos y difundirlos en un **mapa sonoro**.  
+- Grabar sonidos y presentarlos de forma atractiva en una plataforma digital.  
+- Difundir el proyecto a la sociedad para sensibilizar sobre la construcción de paz.  
+
+**Metodología: etnografía sonora**  
+“La etnografía sonora es una metodología que estudia la dimensión sonora y musical de las culturas, enfocándose en cómo las personas perciben, construyen y se relacionan con los sonidos en sus contextos sociales y culturales. A través de distintas técnicas, busca captar las expresiones sonoras colectivas para entender el vínculo entre los sonidos, la memoria, la identidad y el entorno de una comunidad.”  
+
+**Avances**
+- Definición de objetivos y metas.  
+- Integración del equipo de trabajo.  
+- Selección preliminar de sitios afectados por violencia en Culiacán.  
+- Revisión conceptual y metodológica de la etnografía sonora como base del proyecto.  
+
+**Siguientes pasos**
+1. Consolidar bases de datos de sitios vinculados con hechos de violencia.  
+2. Realizar la etnografía sonora de la ciudad.  
+3. Justificar y seleccionar los sonidos representativos.  
+4. Grabar y sistematizar los sonidos recopilados.  
+5. Diseñar y poner en marcha la plataforma digital para el mapa sonoro.  
+
+## Integrantes ganadores  
+- Mtra. **Liliana Tello Segovia**  
+- Mtro. **Ernesto Diez Martínez Guzmán**  
+- Mtra. **Claudia Bastien Araujo**  
 
 ---
 
