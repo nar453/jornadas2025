@@ -22,8 +22,8 @@ Asimismo, nos complace anunciar que los equipos reconocidos forman parte de los 
 En el proyecto *«Pulsos Cromáticos en el Centro Histórico de la Ciudad de Puebla»* buscamos explorar otras formas de leer el arte urbano que está plasmado en la calle utilizando distintos recursos metodológicos y tecnológicos.
 
 **Objetivos iniciales**  
-1. Construir visualizaciones para analizar cómo el grafiti, los stickers y las consignas políticas responden a fenómenos socioculturales que atraviesan el centro de la ciudad.  
-2. Reflexionar sobre cómo se construyen los datos, primero desde un cuerpo situado que recorre la ciudad —atravesado por afectos, recuerdos y curiosidades— y también a través de los metadatos. Estos aparecen como huellas de un vínculo con el espacio, elementos que resignifican el ejercicio de caminar la ciudad. Ambos recorridos suponen un ejercicio narrativo donde el centro es la forma de habitar la ciudad y (d)escribirla.
+- Construir visualizaciones para analizar cómo el grafiti, los stickers y las consignas políticas responden a fenómenos socioculturales que atraviesan el centro de la ciudad.  
+- Reflexionar sobre cómo se construyen los datos, primero desde un cuerpo situado que recorre la ciudad —atravesado por afectos, recuerdos y curiosidades— y también a través de los metadatos. Estos aparecen como huellas de un vínculo con el espacio, elementos que resignifican el ejercicio de caminar la ciudad. Ambos recorridos suponen un ejercicio narrativo donde el centro es la forma de habitar la ciudad y (d)escribirla.
 
 **Integrantes**  
 - Dr. Iván Flores Obregón — Antropólogo especializado en culturas digitales.  
