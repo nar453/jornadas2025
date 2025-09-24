@@ -28,10 +28,10 @@ En el proyecto *«Pulsos Cromáticos en el Centro Histórico de la Ciudad de Pue
 
 | Nombre | Especialidad |
 |--------|--------------|
-| Dr. Iván Flores Obregón | Antropólogo especializado en culturas digitales |
-| Dra. Adriana Moreno Carrasco | Antropóloga digital |
-| Mtro. Emmanuel Anguiano | Maestro en ciencias y artista digital |
-| Dr. Roberto Domínguez Cáceres | Experto en literatura y discurso |
+| Dr. Iván Flores Obregón
+| Dra. Adriana Moreno Carrasco
+| Mtro. Emmanuel Anguiano
+| Dr. Roberto Domínguez Cáceres
 
 **Metodología y avances**  
 - Recorridos por el Centro Histórico para registrar intervenciones en muros mediante fotografía.  
