@@ -72,10 +72,10 @@ Este proyecto busca rescatar y difundir los **sonidos de la paz cotidiana** en l
 4. Grabar y sistematizar los sonidos recopilados.  
 5. Diseñar y poner en marcha la plataforma digital para el mapa sonoro.  
 
-## Integrantes ganadores  
-- Mtra. **Liliana Tello Segovia**  
-- Mtro. **Ernesto Diez Martínez Guzmán**  
-- Mtra. **Claudia Bastien Araujo**  
+**Integrantes ganadores** 
+- Mtra. Liliana Tello Segovia 
+- Mtro. Ernesto Diez Martínez Guzmán
+- Mtra. Claudia Bastien Araujo 
 
 ---
 
