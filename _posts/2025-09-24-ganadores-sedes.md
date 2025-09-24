@@ -26,7 +26,7 @@ En el proyecto *«Pulsos Cromáticos en el Centro Histórico de la Ciudad de Pue
 
 **Integrantes**  
 
-| Nombre | Especialidad |
+| Nombre |  |
 |--------|--------------|
 | Dr. Iván Flores Obregón
 | Dra. Adriana Moreno Carrasco
@@ -80,11 +80,11 @@ La etnografía sonora estudia la dimensión sonora y musical de las culturas, en
 
 **Integrantes**  
 
-| Nombre | Especialidad |
+| Nombre | 
 |--------|--------------|
-| Mtra. Liliana Tello Segovia | Comunicación y cultura |
-| Mtro. Ernesto Diez Martínez Guzmán | Sociología urbana |
-| Mtra. Claudia Bastien Araujo | Etnografía sonora |
+| Mtra. Liliana Tello Segovia
+| Mtro. Ernesto Diez Martínez Guzmán
+| Mtra. Claudia Bastien Araujo
 
 ---
 
