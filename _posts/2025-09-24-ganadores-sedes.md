@@ -8,8 +8,7 @@ categories: [ganadores, humanidades-digitales]
 
 > **Anuncio oficial.** Esta entrada se actualizará conforme se publiquen más resultados de las sedes participantes.
 Este logro brinda, en primer lugar, el pago de la inscripción al Encuentro de Humanidades Digitales, que se celebrará en Monterrey del 15 al 17 de octubre.
-
-Asimismo, nos complace anunciar que los equipos reconocidos forman parte de los cuatro finalistas al Premio Nacional de las Jornadas de Humanidades Digitales.
+*Los equipos reconocidos forman parte de los cuatro finalistas al Premio Nacional de las Jornadas de Humanidades Digitales que otorga la Escuela de Humanidades y Educación*
 ---
 
 ## 🥇 Puebla | equipo ganador
