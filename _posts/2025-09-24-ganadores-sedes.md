@@ -42,6 +42,8 @@ Con ello, el proyecto busca **nuevas formas de presentar la ciudad** y **cuestio
 ### ¿A qué suena Culiacán?
 
 **Descripción**
+
+
 Este proyecto busca rescatar y difundir los **sonidos de la paz cotidiana** en lugares de Culiacán que han sido afectados por la violencia. La intención es contrarrestar la memoria de hechos violentos con registros sonoros que representen la vida diaria, la identidad y la resiliencia de la comunidad.
 
 **Objetivos iniciales**
