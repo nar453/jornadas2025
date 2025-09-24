@@ -60,8 +60,8 @@ Este proyecto busca rescatar y difundir los **sonidos de la paz cotidiana** en l
 - Grabar sonidos y presentarlos de forma atractiva en una plataforma digital.  
 - Difundir el proyecto a la sociedad para sensibilizar sobre la construcción de paz.  
 
-**Metodología: etnografía sonora**  
-“La etnografía sonora es una metodología que estudia la dimensión sonora y musical de las culturas, enfocándose en cómo las personas perciben, construyen y se relacionan con los sonidos en sus contextos sociales y culturales. A través de distintas técnicas, busca captar las expresiones sonoras colectivas para entender el vínculo entre los sonidos, la memoria, la identidad y el entorno de una comunidad.”  
+**Metodología**  
+“La **etnografía sonora** es una metodología que estudia la dimensión sonora y musical de las culturas, enfocándose en cómo las personas perciben, construyen y se relacionan con los sonidos en sus contextos sociales y culturales. A través de distintas técnicas, busca captar las expresiones sonoras colectivas para entender el vínculo entre los sonidos, la memoria, la identidad y el entorno de una comunidad.”  
 
 **Avances**
 - Definición de objetivos y metas.  
