@@ -16,7 +16,9 @@ Asimismo, nos complace anunciar que los equipos reconocidos forman parte de los 
 
 ### Pulsos cromáticos en el Centro Histórico de la Ciudad de Puebla
 
-**Descripción**  
+**Descripción**
+
+
 En el proyecto *«Pulsos Cromáticos en el Centro Histórico de la Ciudad de Puebla»* buscamos explorar otras formas de leer el arte urbano que está plasmado en la calle utilizando distintos recursos metodológicos y tecnológicos.
 
 **Objetivos iniciales**  
