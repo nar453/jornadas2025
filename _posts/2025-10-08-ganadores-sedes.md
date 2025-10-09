@@ -108,10 +108,10 @@ Promover la interpretación crítica de los resultados que facilite la comprensi
 
 **Integrantes**
 
-
-Gerardo Manuel Saucedo
-Edgar Torres Gallegos
-Fernando Gutiérrez Cortés
+|--------|
+| Gerardo Manuel Saucedo
+| Edgar Torres Gallegos
+| Fernando Gutiérrez Cortés
  
 ---
 
