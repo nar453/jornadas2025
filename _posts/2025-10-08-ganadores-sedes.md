@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ganadores por sede | Jornadas HD
-date: 2025-09-24
+date: 2025-10-08
 categories: [ganadores, humanidades-digitales]
 ---
 
