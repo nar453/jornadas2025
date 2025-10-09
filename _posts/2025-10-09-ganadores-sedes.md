@@ -9,7 +9,7 @@ categories: [ganadores, humanidades-digitales]
 
 > **Anuncio oficial.** Esta entrada se actualizará conforme se publiquen más resultados de las sedes participantes.  
 > Este logro brinda, en primer lugar, el pago de la inscripción al Encuentro de Humanidades Digitales, que se celebrará en Monterrey del 15 al 17 de octubre.  
-> *Los equipos reconocidos forman parte de los cuatro finalistas al Premio Nacional de las Jornadas de Humanidades Digitales que otorga la Escuela de Humanidades y Educación.*
+> *Los equipos reconocidos forman parte de los cinco finalistas al Premio Nacional de las Jornadas de Humanidades Digitales que otorga la Escuela de Humanidades y Educación.*
 
 ---
 
@@ -218,8 +218,7 @@ f. Desarrollar propuesta para instalación interactiva para el aniversario 15º 
 
 
 ## Próximos anuncios  
-
-Se irán agregando los resultados de más sedes en esta misma página.  
+  
 Queda pendiente el anuncio del ganador nacional.  
 
 ---
