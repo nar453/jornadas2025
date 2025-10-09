@@ -26,12 +26,12 @@ En el proyecto *«Pulsos Cromáticos en el Centro Histórico de la Ciudad de Pue
 
 **Integrantes**  
 
-| Nombre |  |
+
 |--------|--------------|
-| Dr. Iván Flores Obregón
-| Dra. Adriana Moreno Carrasco
-| Mtro. Emmanuel Anguiano
-| Dr. Roberto Domínguez Cáceres
+| Iván Flores Obregón
+| Adriana Moreno Carrasco
+| Emmanuel Anguiano
+| Roberto Domínguez Cáceres
 
 **Metodología y avances**  
 - Recorridos por el Centro Histórico para registrar intervenciones en muros mediante fotografía.  
@@ -80,11 +80,11 @@ La etnografía sonora estudia la dimensión sonora y musical de las culturas, en
 
 **Integrantes**  
 
-| Nombre | 
+
 |--------|--------------|
-| Mtra. Liliana Tello Segovia
-| Mtro. Ernesto Diez Martínez Guzmán
-| Mtra. Claudia Bastien Araujo
+| Liliana Tello Segovia
+| Ernesto Diez Martínez Guzmán
+| Claudia Bastien Araujo
 
 ---
 
@@ -107,6 +107,8 @@ Generar visualizaciones complementarias (mapas de calor, comparativos y redes de
 Promover la interpretación crítica de los resultados que facilite la comprensión de las desigualdades y tendencias digitales-culturales en el país.
 
 **Integrantes**
+
+
 Gerardo Manuel Saucedo
 Edgar Torres Gallegos
 Fernando Gutiérrez Cortés
