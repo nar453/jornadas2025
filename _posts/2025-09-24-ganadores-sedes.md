@@ -88,6 +88,31 @@ La etnografía sonora estudia la dimensión sonora y musical de las culturas, en
 
 ---
 
+## CDMX | equipo ganador
+
+### mapa interactivo de brechas y prácticas digitales en México
+
+**Descripción**
+
+El mapa visibilizará las brechas y prácticas digitales-culturales en México, a partir de los datos recogidos por INEGI, con el fin de transformar información compleja en representaciones visuales accesibles que permitan identificar desigualdades regionales, comparar formas de consumo cultural y apoyar la generación de políticas públicas, iniciativas educativas y proyectos comunitarios orientados a reducir dichas brechas.
+
+**Metas**
+
+Organizar y sistematizar los datos de INEGI relacionados con acceso a internet, uso de dispositivos, plataformas digitales y consumo cultural, asegurando su coherencia y pertinencia para la representación visual.
+ 
+Diseñar y desarrollar un mapa interactivo que muestre de manera clara y comparativa las brechas digitales y culturales entre las entidades federativas de México.
+ 
+Generar visualizaciones complementarias (mapas de calor, comparativos y redes de relación) que permitan explorar distintas dimensiones del uso digital y del consumo cultural.
+ 
+Promover la interpretación crítica de los resultados que facilite la comprensión de las desigualdades y tendencias digitales-culturales en el país.
+
+**Integrantes**
+Gerardo Manuel Saucedo
+Edgar Torres Gallegos
+Fernando Gutiérrez Cortés
+ 
+---
+
 ## Próximos anuncios  
 
 Se irán agregando los resultados de más sedes en esta misma página.  
