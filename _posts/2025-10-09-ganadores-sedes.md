@@ -187,7 +187,7 @@ Utilizando Smartfeedback se realizó un análisis de sentimientos de la sinopsis
 1. Se tiene una base de datos de 38 producciones, categorizadas en 21 variables, a partir de las fichas técnicas con las cuales se inscriben a competencia.  
 2. Se tiene el vínculo con el equipo de Programación de DOQUMENTA, quienes nos facilitaron la data. 
 3. Se ha conversado con el equipo de Dirección de la organización para ampliar el proyecto y presentarlo durante el 15º Festival DOQUMENTA.  
-4. (Prototipo 1) [https://codepen.io/cbringas/pen/Wbrvmax]  
+4. [Prototipo 1] (https://codepen.io/cbringas/pen/Wbrvmax)  
 
 **Siguientes pasos** 
 
